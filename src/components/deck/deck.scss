@@ -1,0 +1,16 @@
+.deck{
+  display: flex;
+  flex-wrap: wrap;
+
+header {
+ align-self: stretch;
+ flex-wrap:nowrap;
+}
+
+  h2 {
+    font-size: 250%;
+    font-family: 'Acme';
+    align-content: center;
+  }
+
+}
